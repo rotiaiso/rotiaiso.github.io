@@ -1,0 +1,9 @@
+<playercorefactory>
+	<players>
+		<player name="MXPlayerPro" type="ExternalPlayer" video="true">
+			<filename>com.mxtech.videoplayer.pro</filename>
+			<playcountminimumtime>600</playcountminimumtime>
+			<hidexbmc>true</hidexbmc>
+		</player>
+	</players>
+</playercorefactory>
